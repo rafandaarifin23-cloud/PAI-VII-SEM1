@@ -1,0 +1,6 @@
+{
+  "name": "Portal PAI-BP GEMILANG - SMP Negeri 5 Brebes",
+  "description": "Portal Pembelajaran Pendidikan Agama Islam dan Budi Pekerti Kurikulum Merdeka SMP Negeri 5 Brebes bersama Sandi Arifin, S.Pd.I dengan Pendekatan Deep Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
